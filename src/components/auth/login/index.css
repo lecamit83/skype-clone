@@ -1,0 +1,34 @@
+.container {
+    width: 100vw;
+    height: 97vh;
+    background: linear-gradient(#01B5F0,#007BD5,#015496);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-login {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.logo {
+    width: 128px;
+    height: 128px;
+}
+.form-content {
+    max-width: 500px;
+    max-height: 500px;
+    width: 480px;
+    height: 320px;
+    background-color: white;
+    padding: 40px;
+}
+.textField {
+    width: 90%,
+}
+.footer {
+    width: 100vw;
+    height: 3vh;
+    background: #00213C
+}
